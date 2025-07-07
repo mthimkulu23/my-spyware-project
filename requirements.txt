@@ -1,0 +1,5 @@
+pynput
+Pillow
+requests
+watchdog
+pyscreenshot # <--- Ensure this is explicitly listed. It was implied by Pillow, but good to be explicit.
